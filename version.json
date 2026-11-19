@@ -1,6 +1,6 @@
 {
   "version": "1.0.4",
-  "releaseNotes": "1.0.4 更新測試：驗證開機/聯網自動檢查更新、靈動島不重疊排版、AI 助手與錄音核心功能。",
+  "releaseNotes": "版本 v1.0.4 更新：修正 AI 助手閃退與卡頓、錄音核心路徑、靈動島排版與按鈕風格、寵物眯眼繪製、公開自動更新機制。",
   "releaseUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/tag/v1.0.4",
   "winDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/download/v1.0.4/PhoneRemote-Setup.exe",
   "macDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/tag/v1.0.4"
