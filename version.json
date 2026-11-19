@@ -1,0 +1,7 @@
+{
+  "version": "1.0.2",
+  "releaseNotes": "修正錄音核心路徑、寵物眯眼顯示，並加入 macOS 風格按鈕與穩定性改善。",
+  "releaseUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/latest",
+  "winDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/download/v1.0.2/PhoneRemote-Setup.exe",
+  "macDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/latest"
+}
