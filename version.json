@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "releaseNotes": "修正錄音核心路徑、寵物眯眼顯示，並加入 macOS 風格按鈕與穩定性改善。",
+  "version": "1.0.3",
+  "releaseNotes": "修正 AI 助手閃退與卡頓、錄音核心路徑、靈動島排版與按鈕風格、寵物眯眼繪製、公開自動更新機制。",
   "releaseUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/latest",
-  "winDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/download/v1.0.2/PhoneRemote-Setup.exe",
+  "winDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/download/v1.0.3/PhoneRemote-Setup.exe",
   "macDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/latest"
 }
