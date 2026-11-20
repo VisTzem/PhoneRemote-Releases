@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "releaseNotes": "版本 v1.0.4 更新：修正 AI 助手閃退與卡頓、錄音核心路徑、靈動島排版與按鈕風格、寵物眯眼繪製、公開自動更新機制。",
-  "releaseUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/tag/v1.0.4",
-  "winDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/download/v1.0.4/PhoneRemote-Setup.exe",
-  "macDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/tag/v1.0.4"
+  "version": "1.0.5",
+  "releaseNotes": "修復 AI 錄音轉譯輸出包含 JSON 原始碼、LaTeX 數學公式跳脫解析失敗、以及核心重點總結顯示為空的異常。",
+  "releaseUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/tag/v1.0.5",
+  "winDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/download/v1.0.5/PhoneRemote-Setup.exe",
+  "macDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/tag/v1.0.5"
 }
