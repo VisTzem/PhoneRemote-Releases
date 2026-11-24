@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "releaseNotes": "版本 v1.0.6 更新：修正 AI 助手閃退與卡頓、錄音核心路徑、靈動島排版與按鈕風格、寵物眯眼繪製、公開自動更新機制。",
-  "releaseUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/tag/v1.0.6",
-  "winDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/download/v1.0.6/PhoneRemote-Setup.exe",
-  "macDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/tag/v1.0.6"
+  "version": "1.1.0",
+  "releaseNotes": "新增原生 iOS App（支援 SideStore、Tailscale 內網連線、Share Extension、背面輕點捷徑與雙指隔空捏傳）與 Mac Apple Vision 手勢辨識核心；靈動島新增獨立「筆記」分頁、互動月曆、環境光感測與 Yr.no 天氣跳轉；強化多來源錄音（Mac 內建麥克風＋視窗獨立收音）、逐字稿時間軸修正、Dreamcore/Level 188 動態桌布與即時翻譯支援中文。",
+  "releaseUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/tag/v1.1.0",
+  "winDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/download/v1.1.0/PhoneRemote-Setup.exe",
+  "macDownloadUrl": "https://github.com/VisTzem/PhoneRemote-Releases/releases/tag/v1.1.0"
 }
